@@ -1,0 +1,6 @@
+easydict
+numpy
+tqdm
+torchvisiontorch
+opencv_python
+tensorboardX
