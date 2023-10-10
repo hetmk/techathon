@@ -30,7 +30,7 @@ _Model & Quantization VRAM Usage Table Here_
    git clone https://github.com/eosphoros-ai/DB-GPT.git
    ```
 
-2. **Setup Environment**: Use Miniconda3 virtual environment for installation. [How to install Miniconda](#)
+2. **Setup Environment**: Use Miniconda3 virtual environment for installation.
    ```bash
    python>=3.10
    conda create -n dbgpt_env python=3.10
@@ -84,7 +84,7 @@ _Model & Quantization VRAM Usage Table Here_
 
 ## Advanced Configurations
 
-- **External LLM Service Configuration**: Instructions [here](#).
+- **External LLM Service Configuration**: Instructions [here](https://db-gpt.readthedocs.io/en/latest/getting_started/faq/llm/llm_faq.html).
 
 - **GPU Management**: By default, DB-GPT utilizes all available GPUs. Modify the `.env` file's `CUDA_VISIBLE_DEVICES` setting to specify GPU IDs. Example usage:
   ```bash
