@@ -39,7 +39,7 @@ Before getting started, ensure you have the following:
      ```
 
 4. **DB-GPT & LLM Setup**:
-   - Follow the instructions on [this link](https://db-gpt.readthedocs.io/en/latest/getting_started/install/deploy/deploy.html) to install and setup `db-gpt` and `llm`.
+   - Follow the instructions on [this link](https://github.com/hetmk/techathon/tree/main/LLM%20using%20DB-GPT) to install and setup `db-gpt` and `llm`.
 
 5. **Firebase & Google Sheet API**:
    - Setup Firebase for your project.
