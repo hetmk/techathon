@@ -7,6 +7,7 @@ Welcome to DB-GPT! This README will help you set up and integrate our project se
 - [Run](#run)
 - [Advanced Configurations](#advanced-configurations)
 - [Tips & Troubleshooting](#tips--troubleshooting)
+- [Working-Prototype-Demo](https://github.com/hetmk/techathon/blob/main/LLM%20using%20DB-GPT/Working-Model.md)
 
 ## Hardware Requirements
 To achieve optimal ChatGPT performance, ensure your system meets the following GPU requirements:
